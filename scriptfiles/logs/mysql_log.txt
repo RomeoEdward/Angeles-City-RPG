@@ -1,0 +1,49 @@
+[02/10/2017, 20:49] n/a: Unknown column 'atmA' in 'field list'
+[02/10/2017, 20:50] n/a: Unknown column 'atmA' in 'field list'
+[02/10/2017, 20:50] n/a: Unknown column 'atmA' in 'field list'
+[02/10/2017, 20:50] n/a: Unknown column 'atmA' in 'field list'
+[03/10/2017, 08:25] n/a: Unknown column 'atmA' in 'field list'
+[03/10/2017, 08:25] n/a: Unknown column 'atmA' in 'field list'
+[03/10/2017, 08:25] n/a: Unknown column 'atmA' in 'field list'
+[01/02/2018, 13:43] n/a: Unknown column 'FightStyle' in 'field list'
+[05/02/2018, 12:11] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:11] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:12] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:13] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:13] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:13] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:14] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:14] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:14] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:14] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:14] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:14] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:14] n/a: Unknown column 'carJob' in 'field list'
+[05/02/2018, 12:14] n/a: Unknown column 'carJob' in 'field list'
+[05/08/2018, 10:11] n/a: Unknown column 'Vam' in 'field list'
+[05/08/2018, 10:20] n/a: Unknown column 'Vam' in 'field list'
+[05/08/2018, 10:35] OnCharacterCheck: Illegal mix of collations (gbk_chinese_ci,IMPLICIT) and (latin1_swedish_ci,COERCIBLE) for operation '='
+[05/08/2018, 11:35] n/a: Unknown column 'carJob' in 'field list'
+[05/08/2018, 11:36] n/a: Unknown column 'carJob' in 'field list'
+[05/08/2018, 11:36] n/a: Unknown column 'carJob' in 'field list'
+[08/08/2018, 22:49] n/a: Unknown column 'Dw' in 'field list'
+[08/08/2018, 23:01] n/a: Unknown column 'Dw' in 'field list'
+[08/08/2018, 23:04] n/a: Unknown column 'Dw' in 'field list'
+[08/08/2018, 23:05] n/a: Unknown column 'Dw' in 'field list'
+[08/08/2018, 23:05] n/a: Unknown column 'Dw' in 'field list'
+[08/08/2018, 23:07] n/a: Unknown column 'Dw' in 'field list'
+[08/08/2018, 23:10] n/a: Unknown column 'Dw' in 'field list'
+[08/08/2018, 23:10] n/a: Unknown column 'Dw' in 'field list'
+[08/08/2018, 23:15] n/a: Unknown column 'Dw' in 'field list'
+[08/08/2018, 23:17] n/a: Unknown column 'Dw' in 'field list'
+[08/08/2018, 23:24] n/a: Unknown column 'Dw' in 'field list'
+[08/08/2018, 23:24] n/a: Unknown column 'Dw' in 'field list'
+[08/08/2018, 23:28] n/a: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' `ÐÂÊÖÀñ°ü` = '0', `House` = '-1', `Business` = '-1', `Entrance` = '-1', `Ph' at line 1
+[08/08/2018, 23:28] n/a: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' `ÐÂÊÖÀñ°ü` = '0', `House` = '-1', `Business` = '-1', `Entrance` = '-1', `Ph' at line 1
+[08/08/2018, 23:33] n/a: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' `ÐÂÊÖÀñ°ü` = '0', `House` = '-1', `Business` = '-1', `Entrance` = '-1', `Ph' at line 1
+[08/08/2018, 23:33] n/a: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' `ÐÂÊÖÀñ°ü` = '0', `House` = '-1', `Business` = '-1', `Entrance` = '-1', `Ph' at line 1
+[14/10/2018, 21:11] Zones_Load: Table 'rpg.µøåìïµí³' doesn't exist
+[22/10/2018, 12:54] n/a: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'VA' at line 1
+[22/10/2018, 13:04] n/a: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[22/10/2018, 13:05] n/a: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[22/10/2018, 13:05] n/a: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1

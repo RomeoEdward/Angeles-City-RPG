@@ -1,0 +1,2 @@
+[05/08/2018, 11:08] Expired_Tender has purchased business ID: 0 for $70,000.
+[08/08/2018, 21:50] Expired_Tender has purchased business ID: 2 for $20,000.
